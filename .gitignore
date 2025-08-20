@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+model.pkl
+vectorizer.pkl
+*.csv
+.DS_Store
